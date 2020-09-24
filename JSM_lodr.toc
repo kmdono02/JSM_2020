@@ -1,0 +1,13 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Motivation}{2}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Methodology}{5}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{lodr Package}{18}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{ATN 071 Analysis}{23}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Limitations and Future Research}{27}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Bibliography}{28}{0}{6}
